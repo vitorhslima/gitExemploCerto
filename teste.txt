@@ -1,1 +1,18 @@
-Ricardo Viado
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Git Zinho</title>
+</head>
+
+	<body>
+
+		<ul>
+			<li>Jogos</li>
+			<li>Cod</li>
+			<li>R6</li>
+			<li>Brawler Stars</li>
+      <li>Cabeça viado</li>
+		</ul>
+
+	</body>
+</html>
